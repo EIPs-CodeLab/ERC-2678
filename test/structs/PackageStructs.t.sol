@@ -104,3 +104,4 @@ contract PackageStructsTest is Test {
         assertEq(source.license, "GPL-3.0");
     }
 }
+
